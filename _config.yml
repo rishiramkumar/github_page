@@ -15,7 +15,6 @@ baseurl: "/mehtsaam/FA25_B581_Final_Project_OpenEMR_GROUP2"
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
 
 # Enable relative links (Helps navigation work)
 relative_links:
